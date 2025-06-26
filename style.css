@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+body {
+     font-family: "Pixelify Sans", sans-serif;
+     margin-left: 70px;
+     margin-right:  70px;
+     background-color: black;  
+      background-image: url(' https://textur.gas-kvas.com/uploads/posts/2024-10/thumbs/textur-gas-kvas-com-agul-p-teksturi-zvezdi-7.jpg');
+      background-size: cover;       /* чтобы картинка покрывала весь фон */
+      background-repeat: no-repeat; /* чтобы не повторялась */
+      background-position: center;  /* центрирование картинки */
+}
+
+h2 {
+    text-align: center;
+    color: white;
+
+}
+p {
+     margin-left:100px;
+     margin-right: 100px;
+     font-size:20px;
+    color: white
+}
