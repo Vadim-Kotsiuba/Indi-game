@@ -4,12 +4,7 @@ body {
      font-family: "Pixelify Sans", sans-serif;
      margin-left: 70px;
      margin-right:  70px;
-     background-color: black;  
-      background-image: url(' https://textur.gas-kvas.com/uploads/posts/2024-10/thumbs/textur-gas-kvas-com-agul-p-teksturi-zvezdi-7.jpg');
-      background-size: cover;       /* чтобы картинка покрывала весь фон */
-      background-repeat: no-repeat; /* чтобы не повторялась */
-      background-position: center;  /* центрирование картинки */
-}
+     background-color: grey;  
 
 h2 {
     text-align: center;
