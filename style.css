@@ -8,11 +8,14 @@
       font-family: "Pixelify Sans", sans-serif;
       background-color: #1e1e1e;
       color: #f1f1f1;
-      padding: 20px;
-      margin: 0;
+      padding-left: 100px;
+      margin-bottom: 40px;
       margin-top: 40px;
       margin-left: 50px;
       margin-right: 40px;
+      padding-right: 100px;
+      padding-top: 70px;
+      padding-bottom: 70px;
     }
 
     html {
@@ -24,6 +27,10 @@
     }
 
     h2 {
+      color: #ffd700;
+      text-align: center;
+    }
+    h1 {
       color: #ffd700;
       text-align: center;
     }

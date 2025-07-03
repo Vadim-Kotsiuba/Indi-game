@@ -9,19 +9,19 @@
       },
       "Enter the Gungeon": {
         text: "Рогалик-шутер з тисячами гармат і хаосом. Пекельний спуск у підземелля.",
-        image: "https://upload.wikimedia.org/wikipedia/en/3/3a/Enter_the_Gungeon_art.jpg"
+        image: "https://images.steamusercontent.com/ugc/2026092994910976635/486DB2EA35B170F181EE5DF4D3ECECF3B7384885/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
       },
       "Geometry Dash": {
         text: "Аркадна гра про ритм, точність і шалену складність. Мільйони рівнів, створених гравцями.",
-        image: "https://upload.wikimedia.org/wikipedia/en/3/30/Geometry_Dash_Logo.PNG"
+        image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/capsule_616x353.jpg?t=1703006148"
       },
       "Castle Crashers": {
         text: "Мультяшний beat-em-up з коопом. Рубай, бий, рятуй принцес і прокачуйся.",
-        image: "https://upload.wikimedia.org/wikipedia/en/8/8a/Castle_Crashers_cover.png"
+        image: "https://mgames.ua/upload/catalog_products_photos/images/s_11307netjoylcrwnugvdowwyuruprtqd5xogs6g9mo_kzwtatslxbk2kmdupbeb7xt2dfmty1xt0nc6fxxiixspamu0gewxl1635174814.jpg"
       },
       "Minecraft": {
         text: "Спочатку інді, потім Microsoft. Пісочниця, крафт, виживання, творчість. Половина інді.",
-        image: "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFztwMlEU0ETqXVvj9BcCvisLXM4V50rtKfg&s"
       }
     };
 
