@@ -1,11 +1,11 @@
     const gameData = {
       "Undertale": {
         text: "РПГ з вибором: можна вбивати, а можна дружити. Гумор, музика, сльози. Made by Toby Fox.",
-        image: "https://upload.wikimedia.org/wikipedia/en/0/0f/Undertale_cover.jpg"
+        image: "https://upload.wikimedia.org/wikipedia/ru/thumb/d/db/Undertale_Combat_Example.png/330px-Undertale_Combat_Example.png"
       },
       "Hollow Knight": {
         text: "Метроїдванія в темному світі жучків. Атмосфера, геймплей і справжній виклик.",
-        image: "https://upload.wikimedia.org/wikipedia/en/0/06/Hollow_Knight_cover.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4fWkvcWiqh4De4C6UjdclHqJ9CIailypKw&s"
       },
       "Enter the Gungeon": {
         text: "Рогалик-шутер з тисячами гармат і хаосом. Пекельний спуск у підземелля.",
