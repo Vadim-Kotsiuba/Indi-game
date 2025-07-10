@@ -1,10 +1,14 @@
 
 
-
+header{
+ background-color:  #111;
+ border-bottom: 2px solid #ffd700;
+ margin: 25px;
+}
 .logo span {
   font-size: 30px;
   font-weight: bold;
-  color: #00ffff;
+  color: #ffd700;
 }
 
 .nav a {
@@ -16,7 +20,7 @@
 }
 
 .nav a:hover {
-  color: #00ffff;
+  color: #ffd700;
 }
 
 footer {
@@ -25,7 +29,7 @@ footer {
   text-align: center;
   padding: 30px 20px;
   font-size: 0.95rem;
-  border-top: 2px solid #00ffff;
+  border-top: 2px solid #ffd700;
 }
 
 .footer-content p, .social-links a {
@@ -35,11 +39,11 @@ footer {
 }
 
 .social-links a:hover {
-  color: #00ffff;
+  color: #ffd700;
 }
 
 footer a {
-  color: #00ffff;
+  color: #ffd700;
 }
 
 footer a:hover {
