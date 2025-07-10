@@ -5,18 +5,16 @@ body {
   background-color: #1e1e1e;
   color: #f1f1f1;
   padding-left: 100px;
-  margin-bottom: 40px;
-  margin-top: 40px;
   margin-left: 50px;
   margin-right: 40px;
   padding-right: 100px;
-  padding-top: 70px;
-  padding-bottom: 70px;
 }
 
 header {
   background-color: #111;
   border-bottom: 2px solid #ffd700;
+  margin-top: 10px;
+ margin-bottom: 10px;;
 }
 .logo span {
   font-size: 30px;
@@ -49,6 +47,7 @@ footer {
   padding: 30px 20px;
   font-size: 0.95rem;
   border-top: 2px solid #ffd700;
+  margin-top: 30px ;
 }
 
 .footer-content p,
@@ -76,11 +75,13 @@ footer a:hover {
 }
 
 html {
-  background-image: url(https://c4.wallpaperflare.com/wallpaper/861/167/703/half-life-half-life-2-video-games-combine-wallpaper-preview.jpg);
+  background-image: url(https://media.istockphoto.com/id/1732963074/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B5-%D0%BD%D0%B5%D0%B1%D0%BE-%D0%B2-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5.jpg?s=612x612&w=0&k=20&c=DHW7DrSDaljmG6jW1ED7B2fJn3Xv-INIz-5qmDGbcVI=);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 h2 {
